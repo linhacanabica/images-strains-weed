@@ -7,7 +7,7 @@ This repository contains a **10 GB collection of cannabis strain images**, inclu
 ## Download
 
 You can download the full collection here:  
-[Download Images (10 GB)](YOUR_EXTERNAL_LINK_HERE)
+[Download Images (10 GB)](https://mega.nz/file/XCwQWYIA#zktieeSjHdlFIBpw3LUv2O5cB4sznjFCqRi86CqqGlw)
 
 ## Contents
 
