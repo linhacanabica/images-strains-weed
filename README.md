@@ -35,6 +35,8 @@ If you find this collection useful and want to support the project, you can make
 - **BTC Address:** 12dgnNZYyA37neocEHDKHbu2JqzsRTpHH5
 - **Network:** BTC  
 
+Or PIX Brazil: gustavo.palencia@pague.com.gi
+
 Thank you for your support! 🙏
 
 ## Usage
