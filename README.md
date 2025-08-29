@@ -15,6 +15,19 @@ You can download the full collection here:
 - Organized by strain names
 - Suitable for research, AI training, or reference
 
+## Popular Strains
+
+- **Lemon OG Haze** 
+- **Pineapple Express**
+- **Blue Dream**
+- **Girl Scout Cookies**
+- **Sour Diesel**
+- All
+
+Here are some of the most well-known cannabis strains included in this collection.  
+For the full list, see the [strains-list.txt](https://github.com/linhacanabica/images-strains-weed/blob/main/strains-list.txt).
+
+
 ## Donations
 
 If you find this collection useful and want to support the project, you can make a donation in Bitcoin:  
