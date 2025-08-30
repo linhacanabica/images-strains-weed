@@ -51,3 +51,8 @@ Please **do not redistribute without permission**.
 
 This collection is **free to use** under [Creative Commons Zero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/).  
 You can use, modify, and share these images freely for personal or commercial projects.
+
+## Note on Image Sources
+Some images in this collection were sourced from Leafly and other websites. Leafly itself notes that not all images are actual photos of the strains; some are stock or illustrative images meant to represent the strain’s appearance. Therefore, this collection contains a mix of real strain photos and illustrative images. Use accordingly.
+
+Tip via Reddit user: @wiseguydude
