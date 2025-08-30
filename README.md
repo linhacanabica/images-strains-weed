@@ -30,7 +30,10 @@ For the full list, see the [strains-list.txt](https://github.com/linhacanabica/i
 
 ## Donations
 
-If you find this collection useful and want to support the project, you can make a donation in Bitcoin:  
+If you find this collection useful and want to support the project, you can make a donation in USDT/Bitcoin or PIX Brazil:  
+
+- **USDT Address:** TTZyQ3gDxrcyfBhxaSACcTWFH1jjkToTS3
+- **Network:** TRC20
 
 - **BTC Address:** 12dgnNZYyA37neocEHDKHbu2JqzsRTpHH5
 - **Network:** BTC  
