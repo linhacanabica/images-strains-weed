@@ -35,7 +35,7 @@ If you find this collection useful and want to support the project, you can make
 - **USDT Address:** TP9mKAAsGxCaJ7kXAmPMizHPmsCJYDMhGE
 - **Network:** TRC20
 
-- **BTC Address:** 12dgnNZYyA37neocEHDKHbu2JqzsRTpHH5
+- **BTC Address:** 1Je9R3jnXPwVsx7cwoLFSiPeJwVhEfGwY3
 - **Network:** BTC  
 
 Or PIX Brazil: gustavo.palencia@pague.com.gi
