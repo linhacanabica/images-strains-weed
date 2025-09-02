@@ -32,7 +32,7 @@ For the full list, see the [strains-list.txt](https://github.com/linhacanabica/i
 
 If you find this collection useful and want to support the project, you can make a donation in USDT/Bitcoin or PIX Brazil:  
 
-- **USDT Address:** TTZyQ3gDxrcyfBhxaSACcTWFH1jjkToTS3
+- **USDT Address:** TP9mKAAsGxCaJ7kXAmPMizHPmsCJYDMhGE
 - **Network:** TRC20
 
 - **BTC Address:** 12dgnNZYyA37neocEHDKHbu2JqzsRTpHH5
